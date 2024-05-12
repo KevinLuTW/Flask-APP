@@ -10,7 +10,7 @@
     "vc__handler__python": {
       "runtime": "python3.8",
       "memory": 1024,
-      "includeFiles": [ "app.py", "requirements.txt" ]
+      "includeFiles": "app.py requirements.txt"
     }
   }
 }
